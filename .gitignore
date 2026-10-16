@@ -4,3 +4,8 @@ __pycache__/
 .DS_Store
 spell-correct/data/*.jsonl
 spell-correct/checkpoints/*.pt
+spell-correct/hf_publish/model.safetensors
+embed-retrieval/data/*.jsonl
+embed-retrieval/cache/*.npz
+embed-retrieval/checkpoints/nfcorpus-finetuned-minilm/
+embed-retrieval/finetune.log

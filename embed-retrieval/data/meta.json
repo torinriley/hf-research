@@ -1,0 +1,15 @@
+{
+  "n_corpus": 3633,
+  "n_queries": 3237,
+  "n_qrels": {
+    "train": 110575,
+    "validation": 11385,
+    "test": 12334
+  },
+  "n_queries_with_qrels": {
+    "train": 2590,
+    "validation": 324,
+    "test": 323
+  },
+  "source": "BeIR/nfcorpus + BeIR/nfcorpus-qrels on the Hugging Face Hub"
+}

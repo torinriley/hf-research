@@ -1,0 +1,9 @@
+{
+  "recall@10": 0.16405763207309218,
+  "recall@100": 0.350262598683092,
+  "ndcg@10": 0.3324209877002881,
+  "ndcg@100": 0.3268691451715896,
+  "n_queries_evaluated": 323,
+  "model": "checkpoints/nfcorpus-finetuned-minilm",
+  "embedding_dim": 384
+}

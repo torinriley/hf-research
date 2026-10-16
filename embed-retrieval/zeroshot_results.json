@@ -1,0 +1,9 @@
+{
+  "recall@10": 0.15892031320875977,
+  "recall@100": 0.31481173272441915,
+  "ndcg@10": 0.31901781705468746,
+  "ndcg@100": 0.3023413178445759,
+  "n_queries_evaluated": 323,
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384
+}
