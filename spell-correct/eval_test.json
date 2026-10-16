@@ -1,0 +1,37 @@
+{
+  "identity_baseline": {
+    "exact_match": 0.0,
+    "mean_normalized_edit_distance": 0.13548097832045758,
+    "mean_normalized_edit_distance_before_correction": 0.13548097832045758,
+    "n": 2463,
+    "latency_sec_per_example": 1.512665696324152e-05
+  },
+  "nearest_neighbor_train_vocab_only": {
+    "exact_match": 0.0,
+    "mean_normalized_edit_distance": 0.3761049976743643,
+    "mean_normalized_edit_distance_before_correction": 0.13548097832045758,
+    "n": 2463,
+    "latency_sec_per_example": 0.005529451118559069,
+    "vocab_size": 40260,
+    "note": "lookup table cannot contain the target word by construction of the split"
+  },
+  "nearest_neighbor_oracle_vocab": {
+    "exact_match": 0.8412505075111653,
+    "mean_normalized_edit_distance": 0.07129376052379224,
+    "mean_normalized_edit_distance_before_correction": 0.13548097832045758,
+    "n": 2463,
+    "latency_sec_per_example": 0.005878991534736066,
+    "vocab_size": 44732,
+    "note": "upper bound for closed-vocabulary lookup; target word always in table"
+  },
+  "transformer_model": {
+    "exact_match": 0.40194884287454324,
+    "mean_normalized_edit_distance": 0.09948188807189007,
+    "mean_normalized_edit_distance_before_correction": 0.13548097832045758,
+    "n": 2463,
+    "latency_sec_per_example": 0.0010687057148185727,
+    "num_parameters": 1001757,
+    "trained_epoch": 15,
+    "val_loss_at_checkpoint": 0.2665113434027745
+  }
+}

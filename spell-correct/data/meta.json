@@ -1,0 +1,11 @@
+{
+  "seed": 1234,
+  "total_pairs_after_dedup": 49531,
+  "unique_words": 44732,
+  "split_sizes": {
+    "train": 44600,
+    "val": 2468,
+    "test": 2463
+  },
+  "split_by": "correct_word (no word's target spelling appears in more than one split)"
+}

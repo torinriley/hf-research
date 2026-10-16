@@ -1,0 +1,77 @@
+[
+  {
+    "misspelled": "aachidonic",
+    "correct": "arachidonic",
+    "predicted": "achidonic"
+  },
+  {
+    "misspelled": "aadize",
+    "correct": "adaize",
+    "predicted": "adize"
+  },
+  {
+    "misspelled": "aaegialitis",
+    "correct": "aegialitis",
+    "predicted": "aegialitis"
+  },
+  {
+    "misspelled": "aankinetomer",
+    "correct": "anakinetomer",
+    "predicted": "ankinetomer"
+  },
+  {
+    "misspelled": "aazogallein",
+    "correct": "azogallein",
+    "predicted": "azogallein"
+  },
+  {
+    "misspelled": "zaogallein",
+    "correct": "azogallein",
+    "predicted": "zagoallein"
+  },
+  {
+    "misspelled": "abjjudge",
+    "correct": "abjudge",
+    "predicted": "abjudge"
+  },
+  {
+    "misspelled": "abngulately",
+    "correct": "angulately",
+    "predicted": "angulately"
+  },
+  {
+    "misspelled": "abrum",
+    "correct": "abraum",
+    "predicted": "abrum"
+  },
+  {
+    "misspelled": "acalyclate",
+    "correct": "acalyculate",
+    "predicted": "acalyclate"
+  },
+  {
+    "misspelled": "acareplous",
+    "correct": "acarpelous",
+    "predicted": "acareplous"
+  },
+  {
+    "misspelled": "acccensor",
+    "correct": "accensor",
+    "predicted": "accensor"
+  },
+  {
+    "misspelled": "accenso",
+    "correct": "accensor",
+    "predicted": "accenso"
+  },
+  {
+    "misspelled": "accetnuation",
+    "correct": "accentuation",
+    "predicted": "accetunation"
+  },
+  {
+    "misspelled": "acventuation",
+    "correct": "accentuation",
+    "predicted": "acventuation"
+  }
+]

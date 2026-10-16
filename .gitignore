@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+spell-correct/data/*.jsonl
+spell-correct/checkpoints/*.pt
